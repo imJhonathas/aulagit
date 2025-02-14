@@ -1,2 +1,3 @@
 Essa linha foi inserida pelo GitHub
 Esta linha vai gerar um conflito.
+Esta linha vai gerar um conflito.
