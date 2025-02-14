@@ -1,0 +1,25 @@
+[33mcommit e227896e7379f89d0f61b0da73bcde3cf03a3307[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: JotaJ <jhonathascaminhando@gmail.com>
+Date:   Wed Feb 12 20:45:06 2025 -0300
+
+    Revert "Meu terceiro commit"
+    
+    This reverts commit ea8cd829a2828db308ec0173975cf85ef3e4deff.
+
+[33mcommit ea8cd829a2828db308ec0173975cf85ef3e4deff[m
+Author: JotaJ <jhonathascaminhando@gmail.com>
+Date:   Wed Feb 12 20:43:41 2025 -0300
+
+    Meu terceiro commit
+
+[33mcommit 5508c3506d1c162e0fcb69e1ade9ccf3bcfdd826[m
+Author: JotaJ <jhonathascaminhando@gmail.com>
+Date:   Wed Feb 12 20:38:39 2025 -0300
+
+    Meu segundo commit
+
+[33mcommit 4a3aea572094b61568552effc449ac3bf09120c1[m
+Author: JotaJ <jhonathascaminhando@gmail.com>
+Date:   Wed Feb 12 20:32:34 2025 -0300
+
+    Meu primeiro commit
